@@ -53,6 +53,6 @@ Online mobile application which helps the users to operate their electrical appl
 ## How to run the Cloud functions
 
 - In google cloud , go to cloud functions . Then navigate to testing, there place main.py code and requirements.text code.
-- The deploy it
+- Then deploy it
 
  
